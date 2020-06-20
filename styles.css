@@ -22,7 +22,7 @@ body {
   background-position: center;
   background-repeat: repeat;
   background-size: cover;
-  line-spacing: ;
+
 }
 
 body,
@@ -30,6 +30,10 @@ html {
     height: 100%
 }
 
+ul{
+  margin: 20px;
+  padding: 20px;
+}
 #particles-js canvas {
     display: block;
     vertical-align: bottom;
@@ -357,8 +361,14 @@ footer{
 footer a, header a{
   color: #66fcf1;
 }
-
+a:visited{
+  color: purple;
+}
 a:hover{
   text-decoration: none;
   color: #2f8f88;
 }
+a:active{
+  color: red;
+}
+
