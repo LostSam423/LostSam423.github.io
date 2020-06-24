@@ -11,3 +11,6 @@ Libraries used-
  -  particles.js
  -  typewriter.js
  -  parallax.js
+ 
+ ## Here's a snapshot:-
+ ![](images/ss.png)
